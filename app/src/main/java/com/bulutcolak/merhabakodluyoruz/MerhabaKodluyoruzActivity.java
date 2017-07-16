@@ -13,6 +13,7 @@ public class MerhabaKodluyoruzActivity extends AppCompatActivity {
 
         Log.e("LogDeneme", "Kullanıcı arayüzü oluşturuldu");
         Log.e("LogDe", "Kullanıcı arayüzü oluşturuldu");
+        Log.e("LogDeneme", "Kullanıcı arayüzü olu");
 
 
     }

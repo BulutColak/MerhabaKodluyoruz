@@ -12,6 +12,7 @@ public class MerhabaKodluyoruzActivity extends AppCompatActivity {
         setContentView(R.layout.activity_merhaba_kodluyoruz);
 
         Log.e("LogDeneme", "Kullanıcı arayüzü oluşturuldu");
+        Log.e("LogDe", "Kullanıcı arayüzü oluşturuldu");
 
 
     }
